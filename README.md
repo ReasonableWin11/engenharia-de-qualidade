@@ -1,2 +1,2 @@
 # engenharia-de-qualidade
-Repositório para o curso de Engenheiro de Qualidade da EBAC
+Repositório para o curso Engenheiro de Qualidade da EBAC
