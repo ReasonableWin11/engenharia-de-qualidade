@@ -1,1 +1,2 @@
-Pasta com exercícios do curso.
+# exercicios-ebac
+Exercícios do curso divididos por módulos.
